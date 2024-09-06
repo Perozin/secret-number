@@ -1,10 +1,10 @@
 # Descubra o número
-## Jogo de teste para desscobrir um número aleatorio
+## Jogo de teste para descobrir um número aleatorio
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Projeot utilizado nos cursos de programação da Alura
+Projeto utilizado nos cursos de programação da Alura
 
 - Digite um número aleatório
 - O programa dirá se o número digitado é o número correto 
