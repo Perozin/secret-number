@@ -20,6 +20,6 @@ Projeto utilizado nos cursos de programação da Alura
 
 </div>
 
-## Página do projeto
+## Página Web do projeto
 
 https://perozin.github.io/secret-number/
