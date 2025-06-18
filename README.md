@@ -19,3 +19,7 @@ Projeto utilizado nos cursos de programação da Alura
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
+
+## Página do projeto
+
+https://perozin.github.io/secret-number/
